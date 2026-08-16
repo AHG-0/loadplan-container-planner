@@ -5,7 +5,7 @@ manifest and a fleet of containers; it computes a physically loadable packing
 plan, shows it in 3D with a step-by-step loading sequence, and reports what it
 could not load **and why**.
 
-**▶ Live demo:** _add your GitHub Pages URL here after enabling Pages_
+**▶ Live demo:** [_add your GitHub Pages URL here after enabling Pages_](https://ahg-0.github.io/loadplan-container-planner/)
 
 > Senior project (AI). The whole application is a **single self-contained HTML
 > file** — no build step, no server, no install. Open it and it runs.
