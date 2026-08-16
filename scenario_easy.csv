@@ -1,0 +1,5 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile,stackable,tip,max_load_kg,priority,destination
+Standard carton,40,30,30,7.9,120,False,True,True,80,3,A
+Medium box,60,40,40,17.3,90,False,True,False,120,3,A
+Small parcel,30,25,20,3.0,150,False,True,True,40,2,A
+Book carton,35,30,25,6.6,100,False,True,False,60,3,A

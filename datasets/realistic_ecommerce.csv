@@ -1,0 +1,7 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile
+Parcel S,35,25,15,2,120,no
+Parcel M,45,35,25,5,80,no
+Parcel L,60,45,35,9,50,no
+Parcel XL,80,60,45,15,25,no
+Mailer bag,40,30,8,1,60,no
+Electronics,55,40,30,8,30,yes

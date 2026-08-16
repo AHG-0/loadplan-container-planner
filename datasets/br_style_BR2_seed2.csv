@@ -1,0 +1,6 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile
+T1,87,26,24,12.2,73,yes
+T2,56,84,61,60.3,1,no
+T3,42,55,48,20.6,80,no
+T4,81,39,36,14.8,83,no
+T5,30,97,36,14.8,72,yes

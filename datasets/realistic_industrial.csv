@@ -1,0 +1,7 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile
+EUR pallet load,120,80,144,650,10,no
+Half pallet,80,60,120,300,6,no
+Machinery crate,140,90,100,850,3,no
+Drum box,60,60,90,180,8,no
+Spare parts carton,60,40,35,18,40,no
+Control panel,90,60,50,45,6,yes

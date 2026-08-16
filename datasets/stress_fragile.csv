@@ -1,0 +1,6 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile
+Glass panel,100,10,120,35,12,yes
+Ceramic box,45,45,40,15,24,yes
+Lamp carton,35,35,60,4,20,yes
+Sturdy base,80,60,50,60,20,no
+Filler carton,50,40,30,8,60,no

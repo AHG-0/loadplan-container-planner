@@ -1,0 +1,7 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile,stackable,tip,max_load_kg,priority,destination
+Pallet crate,120,100,110,198.0,8,False,True,False,500,4,A
+Appliance box,80,70,90,60.5,14,False,True,False,180,3,B
+Carton large,60,40,40,17.3,50,False,True,True,100,3,B
+Carton small,40,30,30,7.2,70,False,True,True,60,2,C
+Glassware,50,40,35,9.1,20,True,False,False,0,5,A
+Steel drum,60,60,90,51.8,12,False,False,False,0,3,C

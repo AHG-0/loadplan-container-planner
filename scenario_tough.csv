@@ -1,0 +1,12 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile,stackable,tip,max_load_kg,priority,destination
+Machinery crate,220,110,120,580.8,4,False,True,False,800,5,A
+Tall cabinet,90,80,265,209.9,3,False,False,False,0,4,A
+Pallet crate,120,100,100,192.0,10,False,True,False,600,4,B
+Appliance box,80,70,90,60.5,18,False,True,False,200,3,B
+Heavy carton,60,50,50,33.0,40,False,True,True,120,3,C
+Medium carton,50,40,40,15.2,50,False,True,True,90,2,C
+Small parcel,35,30,25,6.0,45,False,True,True,50,2,D
+Glass panel,120,15,180,35.6,8,True,False,False,0,5,A
+Electronics,55,45,40,13.9,24,True,False,False,0,5,B
+Steel drum,60,60,90,64.8,16,False,False,False,0,3,C
+Pipe bundle,300,20,20,30.0,10,False,True,False,40,2,D

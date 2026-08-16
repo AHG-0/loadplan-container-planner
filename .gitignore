@@ -1,0 +1,42 @@
+# dependencies (only jsdom, and only for the UI smoke test)
+node_modules/
+package-lock.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# generated / working files
+*.log
+/tmp/
+~$*                      # Word lock files
+
+# superseded builds — history only, keep them out of the public repo
+cargo_load_planner.html
+cargo_load_planner_modes.html
+cargo_load_planner_v2.html
+cargo_load_planner_v3.html
+cargo_load_planner_v4.html
+cargo_load_planner_v4_pre_m4.html
+.build_v4_backup.html
+.pack_test_v4_backup.js
+_m4_final_version.html
+
+# raw teammate drops (keep the merged result, not the pile)
+teammates.zip
+Teammates/
+
+# large third-party dataset — link to it in the README instead of committing it
+ecommerce_cargo_dataset_with_IoT.csv
+
+# screenshots used while debugging
+pg-*.jpg
+page-*.jpg
+prev-q-*.jpg
+_m1_manifest_photo.jpg
